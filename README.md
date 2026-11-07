@@ -8,6 +8,5 @@ O objetivo é explorar a geração automática de relatórios, estatísticas e v
 - Python
 - Pandas
 - FG Data Profiling
-- Jupyter Notebook
 
 > Projeto desenvolvido apenas para fins de estudo e experimentação.
